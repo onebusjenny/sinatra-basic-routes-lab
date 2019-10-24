@@ -8,15 +8,15 @@ class App < Sinatra::Base
   end
   
   get '/name' do
-    
+    "Jenny"
   end
   
   get '/hometown' do
-  
+    "Taiwan"
   end
   
   get '/favorite-song' do
-    
+    "Apologize"
   end
 
 
